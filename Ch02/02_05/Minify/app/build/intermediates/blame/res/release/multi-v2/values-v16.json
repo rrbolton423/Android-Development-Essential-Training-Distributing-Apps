@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/romellbolton/Desktop/Ex_Files_Android_App_Dev_Distributing/Exercise Files/Ch02/02_05/Minify/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/romellbolton/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.0.aar/8dd095172dcaa55efa4a13e7a227cb43/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}

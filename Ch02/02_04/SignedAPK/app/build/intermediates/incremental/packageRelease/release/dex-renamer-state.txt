@@ -1,0 +1,4 @@
+#Mon Mar 19 18:44:15 EDT 2018
+base.0=/Users/romellbolton/Desktop/Ex_Files_Android_App_Dev_Distributing/Exercise Files/Ch02/02_04/SignedAPK/app/build/intermediates/transforms/dex/release/0
+path.0=classes.dex
+renamed.0=classes.dex
